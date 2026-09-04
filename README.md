@@ -17,6 +17,10 @@ Arduino sketch that reads Tesla Model 3 pack state-of-charge from an EVTV contro
 
 Open `M3Battery.ino` in the Arduino IDE. An `.ino.example` copy is alongside the sketch.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 Dave Robinson / VaderConsulting (banner in source, 28 Feb 2022). Imported from the Arduino archive. EVTV is the serial protocol source for SOC; this repo does not bundle EVTV firmware.
