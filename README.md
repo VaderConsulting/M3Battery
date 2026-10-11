@@ -25,8 +25,8 @@ Open `M3Battery.ino` in the Arduino IDE. An `.ino.example` copy is alongside the
 
 ## Attribution and provenance
 
-Original work by Dave Robinson / VaderConsulting for a personal EVTV Model 3 battery monitor bench. No third-party sketch attribution markers were identified in this tree.
+Original work by Dave Robinson / Vader Consulting for a personal EVTV Model 3 battery monitor bench. No third-party sketch attribution markers were identified in this tree.
 
 ## License
 
-MIT. See `LICENSE` if present; otherwise treat as MIT VaderConsulting 2026 for Dave's code.
+MIT. See `LICENSE` if present; otherwise treat as MIT Vader Consulting 2026 for Dave's code.
